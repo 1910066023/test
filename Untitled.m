@@ -1,4 +1,4 @@
-
+a
 clear all;close all;clc;
 SE1=[1 1 1 1 1 1 1 1 1];
 SE2=[0 0 0 0 1 0 0 0 0;
